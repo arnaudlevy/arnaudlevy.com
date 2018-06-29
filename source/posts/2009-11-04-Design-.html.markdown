@@ -1,0 +1,102 @@
+---
+title: Design ?
+date: '2009-11-04 00:03:36'
+tags:
+- chers-etudiants
+---
+
+>Le design naît du rapport entre la forme et la fonction.
+
+C'est une discipline vaste, nous allons explorer quelques aspects.
+
+<!--more-->
+
+
+**Print**
+
+Livres, affiches, flyers, annonces presses, magazines, journaux mais aussi packagings, plv (publicité sur le lieu de vente) cartonnées, papeterie, carte de visite, tout cela est du print.
+Les logiciels usuels sont Photoshop, Illustrator et Indesign ou XPress.
+Le format pdf, héritier du postscript (et créé aussi par Adobe, ils sont partout) est le format de transport le plus répandu.
+On travaille les couleurs en CMJN, et en haute définition (300 dpi).
+http://fr.wikipedia.org/wiki/Quadrichromie
+http://fr.wikipedia.org/wiki/Point_par_pouce
+
+Le terme graphic design est souvent lié au print.
+http://en.wikipedia.org/wiki/Graphic_design
+
+Quelques graphic designers :
+Alexey Brodovitch
+Neville Brody
+David Carson
+Stefan Sagmeister
+Michal Batory
+
+
+**Motion design**
+
+Clips, génériques, films, le motion design c'est le design en mouvement !
+On travaille en rvb, aux formats divers et variés de la vidéo.
+http://fr.wikipedia.org/wiki/Rouge_vert_bleu
+http://fr.wikipedia.org/wiki/Phase_Alternated_Line
+http://fr.wikipedia.org/wiki/Haute_définition
+Les logiciels sont ceux du graphic design, plus After Effects et des logiciels d'images de synthèse (3DS Max, Maya, Lightwave).
+
+Quelques références :
+http://www.renascent.nl/
+http://www.nobrain.fr
+http://www.dailymotion.com/video/x1a4h_video-alex-gopher-the-child_shortfilms
+Vimeo regorge de travail de motion design.
+http://www.vimeo.com/744583
+http://www.vimeo.com/6486208
+
+
+**Sound design**
+
+Ce n'est pas de la composition de musique, mais plutôt de la création d'environnement sonore. La composition ou le choix de musique est directement lié, mais je ne sais pas si l'on peut vraiment parler de sound design : peut-être faudrait-il parler de production, ou de direction musicale.
+Dans la galaxie Adobe, un petit logiciel est dédié : Soundbooth.
+Tous les logiciels de Musique Assistée par Ordinateur - MAO - sont de bons outils pour le sound design : Pro Tools, Cubase, Logic, Live.
+
+
+**Brand design**
+
+Il s'agit du design de marque. Bien sûr, le logotype, mais aussi tout ce qui compose la marque, et qui est fixé dans la charte graphique : couleurs, empagements, photos / pictos / illustrations, typographies.
+Le packaging est aussi une part du brand design.
+
+Acteurs importants :
+http://www.interbrand.com
+http://www.carrenoir.com
+http://www.dragonrouge.fr
+http://www.brand-image.fr
+
+
+**Web design**
+
+Le gros morceau de notre travail ensemble !
+Tout ce qui finit sur le web, ou au sens plus large, sur un écran interactif, est un peu du web design. On pourrait d'ailleurs dire interactive design. Cela recouvre un certain nombre de métiers en évolution : designer d'interactions, ergonome, directeur artistique (da) interactif, flash designer, etc.
+Tout est bien résumé dans les livres blancs des designers interactifs :
+http://www.designersinteractifs.org
+Voir aussi
+http://fr.wikipedia.org/wiki/Web_design
+
+Les outils logiciels privilégiés peuvent être Photoshop ou Illustrator, selon les cas et les préférences personnelles du designer.
+
+Les outils méthodologiques sont :
+le zoning (structuration de l'espace sans choix graphiques)
+le storyboard (roughs papiers des pages ou de l'histoire)
+la maquette (réalisation graphique des pages)
+
+La question de l'empagement est constante : il s'agit de la stratégie de positionnement des éléments lors du redimensionnement du navigateur.
+
+Quelques références...
+http://www.thefwa.com (ce qui se fait de mieux en full flash dans le monde)
+
+Probablement les 3 meilleures agences françaises...
+http://www.duke-interactive.com/
+http://www.megalos.net/
+http://www.soleilnoir.net/
+
+Les mastodontes...
+http://www.digitas.fr/
+http://www.fullsix.fr/
+http://www.mrmworldwide.fr/
+http://www.nurun.com/

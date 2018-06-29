@@ -1,0 +1,59 @@
+---
+title: Neo-media
+date: '2007-01-02 02:21:59'
+tags:
+- blocnotes
+---
+
+Les métiers liés à la communication et aux nouvelles technologies appellent un changement de posture dans la manière de les pratiquer et de les enseigner.
+<!--more-->
+
+
+**Accélération des changements technologiques**
+
+Aujourd'hui, mon agence travaille avec PHP (1994), MySQL (1995), Apache (1994), Flash (1996), Eclipse (2001), Wordpress (2001), Senso System (2004), entre autres. Aucune de ces technologies n'existait il y a 15 ans, sans même parler des versions qui ont un impact majeur sur la plupart de ces outils. Ainsi, l'Action Script 2 a à peine quelques années, et nous ne pourrions plus nous en passer. Des changements importants, à la fois des outils et des usages, se produisent en quelques années. La durée de vie d'un savoir-faire technologique spécifique est corrélative. Il me semble rationnel de dire, sur le plan technologique, qu'on doit tout remettre en cause tous les 2 ou 3 ans, et apprendre constamment. Bien évidemment, cela ne s'applique pas à la part conceptuelle des technologies, qui est à la fois plus lente à évoluer et plus difficile à aborder. Ainsi, la programmation objet est un concept ancien, utilisé indifféremment en C++, en PHP, en javascript ou en Action Script.
+Il faut donc absolument transmettre le goût d'apprendre, le plaisir de comprendre et la passion de chercher.
+
+Plus que jamais, il ne faut pas donner du poisson, mais apprendre à pêcher.
+
+
+**Horizontalisation des structures**
+
+Les réseaux de travailleurs plus ou moins indépendants, le partage en ligne de connaissances quelles que soient les sociétés qui emploient les acteurs de ces réseaux, l'existence de nombreux consultants / directeurs de clientèle / producteurs / etc. travaillant comme go-between entre d'autres indépendants et des entreprises classiques, la réduction de nombreuses agences à quelques personnes clés, contribuent à déstructurer les structures organisationnelles. Les équipes sont souvent constituées ad hoc, pour un projet, et les relations ne sont nécessairement pas hiérarchiques, puisque nombre d'acteurs sont indépendants.
+Pour un intermittent du spectacle, il est normal que les heures travaillées soient payées. Pour un salarié, il est normal que le salaire convenu soit payé tous les mois. Pour un chef d'entreprise, il est normal que la valeur créée soit payée. Créez une équipe projet avec des chefs d'entreprises, des salariés et des indépendants, et vous verrez pourquoi tout cela est plus horizontal que pyramidal. En effet, le système pyramidal est une pression du haut vers le bas, permettant un contrôle dans le même sens. Enlevez la pression (par exemple, parce que le chef d'entreprise ou l'intermittent ne peuvent être licenciés, ou parce que le salarié ne dépend pas directement du succès du projet pour recevoir son salaire) et vous enlevez le contrôle.
+
+Des réseaux souples de compétences grandissent dans l'ombre des pyramides.
+
+
+**Dissolution du distingo consommateur / producteur**
+
+Nous créons du contenu et de la valeur. Par notre être, par nos actes. La gigantesque base de données de Google, et les inquiétudes quant à l'exploitation mercantile des recherches et la corrélation avec des profils, réalise bien ce qu'Orwell prophétisait. Les articles écrits sur des blogs, les commentaires laissés sur d'autres, les liens partagés avec del.icio.us, les contenus agrégés avec netvibes, les réseaux de contacts (viaduc/viadeo), le partage de photo (flickr), autant d'exemple de la création de contenus par les anciens consommateurs devenus pronétaires (J. de Rosnay).
+
+Je crée, donc je suis, donc je crée.
+
+
+**Du compliqué au complexe**
+
+La production de quelques dizaines d'auteurs prolixes suffirait à donner de quoi lire pendant toute sa vie. Quand tout le monde produit, on franchit un ordre de grandeur. La création ininterrompue d'information rend nécessaire la création d'encore plus d'information, pour naviguer dedans, et cette information devient est-elle même une part de la noosphère: nous voyons là une structure fractale. Chaque information sert de fement à d'autres informations, et tout ça s'organise spontanément, sans contrôle global. Des motifs émergent dans cette soupe informationnelle qui n'a plus rien de primitif, à part le potentiel (del.icio.us en est un bel exemple).
+
+Le monde compliqué de la guerre froide est devenu le monde complexe de la globalisation.
+
+
+**Absence de contrôle et compréhension globale imparfaite**
+
+Chacun lit l'autre à travers sa grille de lecture, composée de dimensions culturelles, professionnelles, psychologiques, sociologiques, linguistiques, et tant d'autres. Dans un monde compliqué, il suffit (ce n'est pas simple) de trouver la grille de lecture adaptée pour résoudre un problème. Quand plusieurs grilles se superposent pour le même problème, on cherche la meilleure équation pour minimiser les dégâts et maximiser les profits dans chacune des grilles, et on arbitre entre les solutions. Cela revient à superposer des espaces de solution, et analyser les intersections.
+Dans un monde complexe, les grilles ne sont pas multiples, mais innombrables, et en mouvement permanent. Le fameux effet Papillon, qui dit qu'une action minime à un endroit dans le monde peut générer des effets gigantesques à un tout autre endroit, est l'illustration parfaite de cette accumulation de grilles. Trop de variables, trop de systèmes rendent la vision logique analytique inopérante. La séparation en entités plus petites jusqu'à parvenir à l'intelligibilité de l'entité pour ensuite réassembler et comprendre l'ensemble ne fonctionne pas en milieu chaotique. En fait, c'est la notion même de causalité qui est remise en cause par la théorie du chaos, et remplacée par la notion d'émergence. Cela s'applique entièrement au neo-media. Del.icio.us n'est pas la conséquence inéluctable des possibilités technologiques actuelles, et son adoption par ses utilisateurs n'est pas non plus la conséquence inéluctable de la situation sociologique actuelle. C'est plutôt un ensemble d'actes isolés simples, qui crée une situation globale complexe, dans laquelle émergent des phénomènes. Il en découle l'impossibilité de construire des solutions pragmatiques par la raison seule.
+
+
+**Une logique de l'action**
+
+Depuis la Renaissance, le champ de la connaissance est trop étendu pour qu'un seul homme, fût-il génial, puisse l'embrasser, ma première proposition est donc de constituer des équipes de spécialistes. Ma deuxième analyse est que ce qui est valable en terrain dynamique ne l'est plus en terrain chaotique. La notion de think-tank, par exemple, si elle est adaptée à un monde dynamique et aux variables multiples, ne l'est plus à un monde complexe aux variables infinies.
+
+Ceux qui pensent doivent faire, ceux qui font doivent penser.
+
+
+**Orienter, pas contrôler**
+
+Ceci m'amène à préconiser (suivant là Joël de Rosnay, entre autres) le passage du contrôle à la catalyse. Les outils traditionnels de contrôle (modélisation, planification, etc) ne sont pas à jeter, mais il faut en mesurer les limites, remettre en cause leur efficacité, tenter de les améliorer, de les alléger. Le contrôle, avec l'augmentation de la taille et de la vitesse, finit par devenir tellement contre-productif qu'il est parfois souhaitable de l'abandonner (c'est un peu effrayant, je le conçois). Ainsi, nous utilisons de plus en plus l'Extreme Programming, méthode impliquant de fixer des priorités, mais pas un calendrier. On ne connaît que la date de la prochaine livraison. Cela implique toutefois certaines conditions de travail, que je ne détaillerai pas ici.
+
+Le leader manager doit se transformer en acteur catalytique.

@@ -1,0 +1,23 @@
+---
+title: Copyleft
+date: '2005-09-07 21:26:55'
+tags: []
+published: false
+---
+
+Tous les contenus écrits par Arnaud Levy sur www.arnaudlevy.com sont copyleft. Toutefois, les droits sur les contenus cités sont régis selon le choix de leur auteur, et ne sont pas concerné par ce copyleft.>Le 
+**copyleft**
+ou 
+**gauche d'auteur**
+est la possibilité donnée par l'auteur (un artiste, un informaticien, ou quiconque produit un travail soumis au droit d'auteur) à l'utilisateur de copier, utiliser, étudier, modifier et distribuer son œuvre, avec la restriction que celui-ci devra laisser l'œuvre sous les mêmes conditions d'utilisation, y compris dans les versions modifiées ou étendues.
+
+Le copyleft a été inventé par Richard Stallman de la Free Software Foundation en 1984. Le terme copyleft est un double jeu de mots par rapport à copyright (opposition right (droit) et left (gauche)) et à copy left (copie laissée ou copie autorisée). Il est traduit de la même façon en français par gauche d'auteur en opposition à droit d'auteur, mais en perdant la visibilité de la notion de copie autorisée.
+
+Le fondement juridique du copyleft est le copyright (ou le droit d'auteur, selon la juridiction où il est exprimé) avec un contrat d'utilisation qui prend la forme d'une licence.
+
+La licence libre la plus connue est la licence publique générale GNU, mais il existe aussi d'autres licences, concernant des domaines très divers (art, jeux de rôle, revue scientifique, etc.), qui peuvent être considérées comme des « licences copyleft ».
+
+Attention, il convient de distinguer le copyleft et l'Open Source au sens strict, ce dernier étant la possibilité de voir le code source d'un programme, il ne donne pas forcément le droit de le modifier, de le redistribuer par exemple.
+
+Source : 
+[http://fr.wikipedia.org/wiki/Copyleft](http://fr.wikipedia.org/wiki/Copyleft)

@@ -1,0 +1,9 @@
+<% page_articles.each_with_index do |article, i| %>
+  <article>
+    <% link_to article do %>
+      <time datetime="<%= article.date.strftime('%Y-%m-%d') %>"><%= article.date.strftime('%d/%m/%Y') %></time>
+      <h2><%= article.title %></h2>
+      <%= article.summary %>
+    <% end %>
+  </article>
+<% end %>
