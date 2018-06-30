@@ -1,13 +1,12 @@
 ---
 title: Adobe Collection
-date: '2009-11-03 22:41:02'
-tags:
-- chers-etudiants
+image: '/posts/images/cc_0.jpg'
 ---
 
 Les logiciels Adobe sont incontournables dans le monde de la création. 
 
-<!--more-->
+READMORE
+
 Les essentiels du graphic design sont Photoshop et Illustrator. Les 2 logiciels se chevauchent, chacun étant doté d'une partie des fonctions de l'autre. Photoshop est un logiciel axé bitmap, Illustrator est axé vectoriel.
 http://fr.wikipedia.org/wiki/Image_vectorielle
 http://fr.wikipedia.org/wiki/Bitmap

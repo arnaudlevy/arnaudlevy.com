@@ -1,11 +1,10 @@
 ---
 title: Copyleft
-date: '2005-09-07 21:26:55'
-tags: []
-published: false
 ---
 
-Tous les contenus écrits par Arnaud Levy sur www.arnaudlevy.com sont copyleft. Toutefois, les droits sur les contenus cités sont régis selon le choix de leur auteur, et ne sont pas concerné par ce copyleft.>Le 
+Tous les contenus écrits par Arnaud Levy sur www.arnaudlevy.com sont copyleft. Toutefois, les droits sur les contenus cités sont régis selon le choix de leur auteur, et ne sont pas concerné par ce copyleft.
+
+>Le 
 **copyleft**
 ou 
 **gauche d'auteur**
@@ -19,5 +18,4 @@ La licence libre la plus connue est la licence publique générale GNU, mais il 
 
 Attention, il convient de distinguer le copyleft et l'Open Source au sens strict, ce dernier étant la possibilité de voir le code source d'un programme, il ne donne pas forcément le droit de le modifier, de le redistribuer par exemple.
 
-Source : 
-[http://fr.wikipedia.org/wiki/Copyleft](http://fr.wikipedia.org/wiki/Copyleft)
+Source : [wikipedia](http://fr.wikipedia.org/wiki/Copyleft)

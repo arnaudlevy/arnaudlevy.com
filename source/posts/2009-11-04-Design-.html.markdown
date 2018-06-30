@@ -1,15 +1,13 @@
 ---
 title: Design ?
-date: '2009-11-04 00:03:36'
-tags:
-- chers-etudiants
+image: '/posts/images/blossfeldt_55a-resize.jpg'
 ---
 
 >Le design naît du rapport entre la forme et la fonction.
 
 C'est une discipline vaste, nous allons explorer quelques aspects.
 
-<!--more-->
+READMORE
 
 
 **Print**
