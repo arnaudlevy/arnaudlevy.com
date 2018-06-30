@@ -10,7 +10,10 @@
     <%= favicon_tag "arnaud-levy.png" %>
   </head>
   <body>
-    <nav><%= link_to image_tag('arnaud-levy.png', alt: 'Arnaud Levy'), '/' %></nav>
+    <nav>
+      <%= link_to image_tag('arnaud-levy.png', alt: 'Arnaud Levy'), '/' %>
+      <a href="/a-propos" class="about">à propos</a>    
+    </nav>
     <main>
       <% if current_article %>
         <% if current_article.data.image %>
