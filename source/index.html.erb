@@ -1,6 +1,6 @@
 <% page_articles.each_with_index do |article, i| %>
-  <% link_to article do %>
-    <article>
+  <article>
+    <% link_to article do %>
       <% if article.data.image %>
         <img src="<%= article.data.image %>" alt="<%= escape_html article.title %>" />
       <% end %>
@@ -10,6 +10,6 @@
       <h1><%= article.title %></h1>
       <%= article.summary %>
       <p class="more">Lire la suite</p>
-    </article>
-  <% end %>
+    <% end %>
+  </article>
 <% end %>

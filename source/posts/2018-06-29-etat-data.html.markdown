@@ -2,10 +2,15 @@
 title: L'état de la data de l'État
 ---
 
-[Très intéressant article](http://www.henriverdier.com/2018/06/pour-une-administration-liberee.html) d'Henri Verdier sur le chemin parcouru par le gouvernement français en termes de données. 
+Très intéressant article d'Henri Verdier sur le chemin parcouru par le gouvernement français en termes de données. 
 
 READMORE
 
 ## [data.gouv.fr](https://www.data.gouv.fr/fr/) 
 
 Le portail des données publiques. Pas nouveau, et de plus en plus nourri.
+
+
+## Source
+
+[Pour une administration libérée](http://www.henriverdier.com/2018/06/pour-une-administration-liberee.html)
