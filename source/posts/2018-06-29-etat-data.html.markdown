@@ -2,14 +2,75 @@
 title: L'état de la data de l'État
 ---
 
-Très intéressant article d'Henri Verdier sur le chemin parcouru par le gouvernement français en termes de données. 
+Très intéressant article d'Henri Verdier sur le chemin parcouru par le gouvernement français en termes de données. Je vous propose une petite sélection de projets.
 
 READMORE
 
 ## [data.gouv.fr](https://www.data.gouv.fr/fr/) 
 
-Le portail des données publiques. Pas nouveau, et de plus en plus nourri.
+Le portail des données publiques. Certes pas nouveau, mais de plus en plus nourri.
 
+## [API](https://api.gouv.fr/)
+
+26 APIs fournies gouvernementales pour construire des services. Parmi ces 26:
+
+### [FranceConnect](https://franceconnect.gouv.fr/)
+
+Le Single Sign On (SSO) du gouvernement.
+
+### [API Géo](https://geo.api.gouv.fr/)
+
+Les communes, départements et régions françaises.
+
+### [APIs Pôle Emploi](https://www.emploi-store-dev.fr/portail-developpeur/catalogueapi)
+
+Tout un jeu d'APIs sur le marché du travail (annonces, entreprises, compétences...).
+
+### [Le Taxi](http://le.taxi/)
+
+Une plateforme qui permet de construire des applications de commande de taxis, utilisée notamment par G7. La plateforme fournit le service de localisation et de mise en relation, le registre des chauffeurs de taxis, mais pas l'application ni le business model. Les datas sont mutualisées et peuvent être exploitées anonymement par l'État: bel exemple de mise à disposition d'infrastructure gouvernementale compatible avec les initiatives locales, et de conservation de la ressource en données.
+
+### [OpenFisca](https://fr.openfisca.org/)
+
+Le système fiscal français codé en Python, accessible en REST! Tout pour construire des applications de simulation.
+
+<iframe frameborder="0" width="100%" height="400" src="//www.dailymotion.com/embed/video/x547av8" allowfullscreen allow="autoplay"></iframe>
+
+### [Base Adresse Nationale](https://adresse.data.gouv.fr/)
+
+Les adresses en France.
+
+## [Entrepreneur.e d'Intérêt Général](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general)
+
+Intéressant programme de recrutement pour lancer des startups d'État.
+
+## [beta.gouv.fr](https://beta.gouv.fr/)
+
+L'incubateur des startups d'État. Parmi ces 66:
+
+### [Locatio](https://locatio.beta.gouv.fr/)
+
+Une plateforme pour rétablir la confiance entre bailleurs et locataires.
+
+### [API Particulier](https://particulier.api.gouv.fr/)
+
+Une API pour fournir les justificatifs relatifs à un usager, automatiquement. A l'heure actuelle, avis d'imposition, adresse fiscale, quotient familial et composition familiale.
+
+### [Démarches simplifiées](https://www.demarches-simplifiees.fr/)
+
+Une plateforme pour aider les administrations à dématérialiser et simplifier les démarches de leurs usagers.
+
+### [Simulateur d'embauche](https://embauche.beta.gouv.fr/)
+
+Un outil très simple et ergonomique pour comprendre le coût salarial.
+
+### [API Entreprise](https://entreprise.api.gouv.fr/)
+
+Une API dédiée aux services publics fournissant des informations fiables sur les entreprises. 
+
+### [Pix](https://pix.beta.gouv.fr/)
+
+Evaluation et certification des compétences numériques.
 
 ## Source
 
