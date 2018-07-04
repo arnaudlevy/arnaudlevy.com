@@ -1,8 +1,5 @@
 ---
 title: Un blog ?
-date: '2005-08-31 15:16:23'
-tags:
-- blocnotes
 ---
 
 Sous les quolibets de Pierre-André, sous l'oeil amusé de Ronan, notre expert es-blog, j'installe un enième blog. Cette fois, c'est le mien, à moi, ce qui veut un peu dire que je fais ce que je veux. Seulement, ce n'est pas vraiment un brief, ça, ce que je veux. Et puis, Pierre-André l'a fait suffisamment remarquer, écrire ce que je veux, c'est bien joli, mais encore faudrait-il que quelqu'un le lise. Et j'en reviens au début, pourquoi, pour qui ? 

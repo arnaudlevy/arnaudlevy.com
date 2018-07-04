@@ -1,8 +1,5 @@
 ---
 title: 'SRC : Plan d''intervention'
-date: '2005-09-04 00:43:36'
-tags:
-- chers-etudiants
 ---
 
 Mes objectifs sont :

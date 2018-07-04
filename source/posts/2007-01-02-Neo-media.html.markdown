@@ -1,8 +1,5 @@
 ---
 title: Neo-media
-date: '2007-01-02 02:21:59'
-tags:
-- blocnotes
 ---
 
 Les métiers liés à la communication et aux nouvelles technologies appellent un changement de posture dans la manière de les pratiquer et de les enseigner.

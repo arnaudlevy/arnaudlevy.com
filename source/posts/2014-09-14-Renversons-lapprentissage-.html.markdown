@@ -1,6 +1,6 @@
 ---
 title: Renversons l'apprentissage !
-image: '/posts/images/palamuse_kihelkonnakooli_klassiruum.jpg'
+image: '/posts/images/palamuse_kihelkonnakooli_klassiruum-resize.jpg'
 ---
 
 Chers étudiants, nous n'allons pas perdre notre temps, ni le vôtre ni le mien, à dérouler des cours que vous pouvez apprendre de façon autonome. Par contre, nous allons travailler ensemble, construire des choses, créer. Je vous fournis dans cet article un chemin d'apprentissage, utilisant différentes ressources en ligne. 

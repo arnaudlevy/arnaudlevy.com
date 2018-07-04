@@ -1,6 +1,6 @@
 ---
 title: Sur la télévision, de Pierre Bourdieu
-image: '/posts/images/mod_article32085658_11.jpg'
+image: '/posts/images/mod_article32085658_11-resize.jpg'
 ---
 
 La première note de lecture sur Bourdieu, au moins, c'est utile. 

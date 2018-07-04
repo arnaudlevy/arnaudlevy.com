@@ -1,8 +1,5 @@
 ---
 title: Livres magnifiques
-date: '2006-12-16 00:14:57'
-tags:
-- notes-de-lecture
 ---
 
 ## Sexus, Henry Miller

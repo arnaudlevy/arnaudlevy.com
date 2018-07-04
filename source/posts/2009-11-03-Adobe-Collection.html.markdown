@@ -1,6 +1,6 @@
 ---
 title: Adobe Collection
-image: '/posts/images/cc_0.jpg'
+image: '/posts/images/cc_0-resize.jpg'
 ---
 
 Les logiciels Adobe sont incontournables dans le monde de la création. 

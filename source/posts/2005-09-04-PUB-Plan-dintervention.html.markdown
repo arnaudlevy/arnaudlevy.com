@@ -1,8 +1,5 @@
 ---
 title: 'PUB : Plan d''intervention'
-date: '2005-09-04 00:32:29'
-tags:
-- chers-etudiants
 ---
 
 Mon objectif est de donner aux étudiants :
