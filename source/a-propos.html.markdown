@@ -1,8 +1,9 @@
 <h1>Arnaud Levy</h1>
 
-<ul>
+<ul class="follow">
   <li><a href="http://www.linkedin.com/in/arnaudlevy" target="_blank">LinkedIn</a></li>
   <li><a href="https://github.com/arnaudlevy" target="_blank">Github</a></li>
+  <li><a href="https://medium.com/arnaudlevy" target="_blank">Medium</a></li>
   <li><a href="http://www.facebook.com/arnaudlevy" target="_blank">Facebook</a></li>
   <li><a href="http://twitter.com/arnaudlevy" target="_blank">Twitter</a></li>
   <li><a href="http://pinterest.com/arnaudlevy/" target="_blank">Pinterest</a></li>
