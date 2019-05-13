@@ -1,19 +1,19 @@
-<a href="https://medium.com/arnaudlevy" class="medium">Suivez-moi sur&nbsp;Medium</a>
-
-<p>Archives</p>
-
-<% page_articles.each_with_index do |article, i| %>
-  <article>
-    <% link_to article do %>
-      <% if article.data.image %>
-        <img src="<%= article.data.image %>" alt="<%= escape_html article.title %>" />
-      <% end %>
-      <time datetime="<%= article.date.strftime('%Y-%m-%d') %>">
-        <%= article.date.strftime('%d/%m/%Y') %>
-      </time>
-      <h1><%= article.title %></h1>
-      <%= article.summary %>
-      <p class="more">Lire la suite</p>
-    <% end %>
-  </article>
-<% end %>
+<%= image_tag('photo.jpg', alt: 'Arnaud Levy', class: 'photo') %>
+<h1>Arnaud Levy</h1>
+<h2>A la croisée de l'éthique, du code & de l'esthétique</h2>
+<p>
+  Entrepreneur depuis 2003 (digitalisation des marques de luxe).
+  Maître de conférences en design et technologie de l'information, expert en innovation pédagogique (classe inversée, tech for good, pédagogie par projet et par blocs de compétences).
+  Développeur depuis 1999 (hier PHP, ActionScript et Objective-C ; aujourd'hui Ruby on Rails et Javascript).
+</p>
+<ul class="follow">
+  <li><a href="http://www.linkedin.com/in/arnaudlevy" target="_blank">LinkedIn</a></li>
+  <li><a href="https://github.com/arnaudlevy" target="_blank">Github</a></li>
+  <li><a href="https://medium.com/arnaudlevy" target="_blank">Medium</a></li>
+  <li><a href="http://www.facebook.com/arnaudlevy" target="_blank">Facebook</a></li>
+  <li><a href="http://twitter.com/arnaudlevy" target="_blank">Twitter</a></li>
+  <li><a href="http://pinterest.com/arnaudlevy/" target="_blank">Pinterest</a></li>
+  <li><a href="https://app.pluralsight.com/profile/arnaud-levy" target="_blank">Pluralsight</a></li>
+  <li><a href="https://www.coursera.org/user/7df126eb4709697297f8a811886462de" target="_blank">Coursera</a></li>
+  <li><a href="http://www.behance.net/arnaudlevy" target="_blank">Behance</a></li>
+</ul>

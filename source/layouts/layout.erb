@@ -7,27 +7,14 @@
     <title><%= current_article.title + ' - ' unless current_article.nil? %>Arnaud Levy</title>
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
-    <%= favicon_tag "arnaud-levy.png" %>
+    <%= favicon_tag "logo.png" %>
   </head>
   <body>
-    <nav>
-      <%= link_to image_tag('arnaud-levy.png', alt: 'Arnaud Levy'), '/' %>
-      <a href="/a-propos" class="about">à propos</a>    
-    </nav>
+    <div id="background"><div id="feed"></div></div>
     <main>
-      <% if current_article %>
-        <% if current_article.data.image %>
-          <img src="<%= current_article.data.image %>" alt="<%= escape_html current_article.title %>" />
-        <% end %>
-        <time datetime="<%= current_article.date.strftime('%Y-%m-%d') %>">
-          <%= current_article.date.strftime('%d/%m/%Y') %>
-        </time>
-        <h1><%= current_article.title %></h1>
-      <% end %>
-      <% unless table_of_contents.blank? %>
-        <div class="toc"><%= table_of_contents %></div>
-      <% end %>
-      <%= yield %>
+      <div class="content">
+        <%= yield %>
+      </div>
     </main>
   </body>
 </html>
