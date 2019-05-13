@@ -8,6 +8,7 @@ jQuery(function ($) {
     $("#feed").rss(
         "https://www.pinterest.fr/arnaudlevy/feed.rss",
         {
+            ssl: true,
             limit: 100,
             layoutTemplate: "{entries}",
             entryTemplate: "{teaserImage}"
