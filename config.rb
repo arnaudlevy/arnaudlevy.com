@@ -7,7 +7,9 @@ activate :blog do |blog|
   blog.summary_length = 150
 end
 
-activate :sprockets
+# activate :sprockets do |c|
+#   c.expose_middleman_helpers = true
+# end
 
 $LOAD_PATH.unshift("#{File.dirname(__FILE__)}/lib")
 require "custom_helpers"
