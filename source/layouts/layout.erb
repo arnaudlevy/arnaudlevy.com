@@ -9,10 +9,13 @@
     <%= javascript_include_tag "site" %>
     <%= favicon_tag "logo.png" %>
   </head>
-  <body>
+  <body class="<%= '--blog' if current_article %>">
     <div id="background"><div id="feed"></div></div>
     <main>
       <div class="content">
+        <% if current_article %>
+          <h1><%= current_article.title %></h1>
+        <% end %>
         <%= yield %>
       </div>
     </main>
@@ -22,9 +25,7 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'UA-11381831-1');
     </script>
-
   </body>
 </html>

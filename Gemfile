@@ -1,8 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'middleman'
+gem 'middleman', '~> 3'
 gem 'middleman-blog'
-gem 'sassc'
-gem 'redcarpet'
-gem 'builder'
-gem 'nokogiri'
+gem 'middleman-sprockets'

@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,400i|Montserrat:400,700')
+
+body
+    background: black
+    overscroll-behavior: none
+    main
+        background: white
+        width: 300px
+        float: right
+        .content
+            padding: 40px
+        .photo
+            width: 100px
+            border-radius: 100%
+    &.--blog
+        main
+            width: 600px
+            float: none
+            left: 50%
+            position: absolute
+            margin-left: -300px
+            margin-top: 30vh
+        h1
+            margin-top: 0
+
+h1, p, li
+    font-family: 'EB Garamond', serif
+
+a
+    color: black
+
+h1
+    font-size: 36px
+    font-weight: normal
+    margin-top: 40px
+    margin-bottom: 20px
+    letter-spacing: -1px
+    text-rendering: geometricPrecision
+
+h2
+    font-family: 'EB Garamond', serif
+    font-size: 24px
+    font-style: italic
+    line-height: 28px
+    margin-bottom: 20px
+    letter-spacing: -1px
+    text-rendering: geometricPrecision
+    a
+        text-decoration: none
+
+h3
+    font-family: 'Montserrat', sans-serif
+    font-weight: 700
+    font-size: 12px
+    line-height: 22px
+    a
+        text-decoration: none
+p
+    font-family: 'Montserrat', sans-serif
+    font-size: 12px
+    line-height: 22px
+    margin-bottom: 20px
+
+ul
+    list-style: none
+    li
+        line-height: 28px
+        a
+            font-family: 'Montserrat', sans-serif
+            font-size: 9px
+            font-weight: 700
+            letter-spacing: 1px
+            color: black
+            text-transform: uppercase
+            text-decoration: none
+            transition: all 0.5s
+            white-space: nowrap
+            &:hover
+                color: grey
+
+@media screen and (max-width: 640px)
+    body, body.--blog
+        main
+            position: relative
+            float: none
+            margin: 70vh 0 0 0
+            width: 100%
+            left: inherit
+            .content
+                position: relative
+            .photo
+                top: -50px
+                position: absolute
+    ul li a
+        display: block
+        padding: 5px 0
