@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><%= current_article.title + ' - ' unless current_article.nil? %>Arnaud Levy</title>
     <%= stylesheet_link_tag "site" %>
-    <%= javascript_include_tag "site" %>
     <%= favicon_tag "logo.png" %>
   </head>
   <body class="<%= '--blog' if current_article %>">
@@ -19,6 +18,7 @@
         <%= yield %>
       </div>
     </main>
+    <%= javascript_include_tag "site" %>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11381831-1"></script>
     <script>
