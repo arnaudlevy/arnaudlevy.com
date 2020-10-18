@@ -8,3 +8,5 @@ https://github.com/middleman/middleman/issues/1799
 
 
 JS is directly copied in site.js, because require don't work anymore. Idem with site.css.sass.
+
+RSS 1.4.0 does not work on old Safari
