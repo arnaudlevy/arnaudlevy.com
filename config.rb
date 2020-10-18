@@ -12,3 +12,9 @@ activate :sprockets
 $LOAD_PATH.unshift("#{File.dirname(__FILE__)}/lib")
 require "custom_helpers"
 helpers CustomHelpers
+
+configure :build do
+  activate :minify_css
+  activate :minify_javascript
+  activate :gzip
+end
