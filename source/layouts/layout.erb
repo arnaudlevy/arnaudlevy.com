@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Arnaud Levy, à la croisée de l'éthique, du code & de l'esthétique">
     <title><%= current_article.title + ' - ' unless current_article.nil? %>Arnaud Levy</title>
-    <%= stylesheet_link_tag "site" %>
+    <%= stylesheet_link_tag "site", media: 'all' %>
     <%= favicon_tag "logo.png" %>
   </head>
   <body class="<%= '--blog' if current_article %>">
