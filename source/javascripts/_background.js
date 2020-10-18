@@ -29,7 +29,7 @@ jQuery(function ($) {
             ssl: true,
             limit: 100,
             layoutTemplate: "{entries}",
-            entryTemplate: "<img src=\"{teaserImageUrl}\" alt=\"\">"
+            entryTemplate: "{teaserImage}"
         },
         function () {
             var html = $('#feed').html();
