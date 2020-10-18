@@ -1,4 +1,3 @@
-
 jQuery(function ($) {
     'use strict';
 
@@ -29,7 +28,7 @@ jQuery(function ($) {
             ssl: true,
             limit: 100,
             layoutTemplate: "{entries}",
-            entryTemplate: "{teaserImage}"
+            entryTemplate: "<img src=\"{teaserImageUrl}\" alt=\"\">"
         },
         function () {
             var html = $('#feed').html();
