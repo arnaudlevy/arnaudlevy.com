@@ -29,7 +29,7 @@ jQuery(function ($) {
             ssl: true,
             limit: 100,
             layoutTemplate: "{entries}",
-            entryTemplate: "<img src=\"{teaserImageUrl}\" alt=\"\">"
+            entryTemplate: "<img data-src=\"{teaserImageUrl}\" class=\"lazyload\" alt=\"\">"
         },
         function () {
             var html = $('#feed').html();
