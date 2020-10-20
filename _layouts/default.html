@@ -1,24 +1,21 @@
 <!doctype html>
-<html>
+<html lang="fr">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><%= current_article.title + ' - ' unless current_article.nil? %>Arnaud Levy</title>
-    <%= stylesheet_link_tag "site" %>
-    <%= javascript_include_tag "site" %>
-    <%= favicon_tag "logo.png" %>
+    <title>{{ page.title }}</title>
+    <link href="/assets/css/site.css" rel="stylesheet">
+    <link href="/assets/images/logo.png" rel=icon type="image/png"/>
   </head>
-  <body class="<%= '--blog' if current_article %>">
+  <body{% if page.layout == 'post' %} class="--blog"{% endif %}>
     <div id="background"><div id="feed"></div></div>
     <main>
       <div class="content">
-        <% if current_article %>
-          <h1><%= current_article.title %></h1>
-        <% end %>
-        <%= yield %>
+        {{ content }}
       </div>
     </main>
+    <script src="/assets/js/site.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11381831-1"></script>
     <script>

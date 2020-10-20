@@ -1,6 +1,6 @@
 ---
 title: Design ?
-image: '/posts/images/blossfeldt_55a-resize.jpg'
+image: '/assets/images/posts/blossfeldt_55a-resize.jpg'
 ---
 
 >Le design naît du rapport entre la forme et la fonction.

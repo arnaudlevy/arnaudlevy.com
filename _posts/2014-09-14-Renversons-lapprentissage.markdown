@@ -1,9 +1,9 @@
 ---
 title: Renversons l'apprentissage !
-image: '/posts/images/palamuse_kihelkonnakooli_klassiruum-resize.jpg'
+image: '/assets/images/posts/palamuse_kihelkonnakooli_klassiruum-resize.jpg'
 ---
 
-Chers étudiants, nous n'allons pas perdre notre temps, ni le vôtre ni le mien, à dérouler des cours que vous pouvez apprendre de façon autonome. Par contre, nous allons travailler ensemble, construire des choses, créer. Je vous fournis dans cet article un chemin d'apprentissage, utilisant différentes ressources en ligne. 
+Chers étudiants, nous n'allons pas perdre notre temps, ni le vôtre ni le mien, à dérouler des cours que vous pouvez apprendre de façon autonome. Par contre, nous allons travailler ensemble, construire des choses, créer. Je vous fournis dans cet article un chemin d'apprentissage, utilisant différentes ressources en ligne.
 
 READMORE
 
@@ -11,18 +11,18 @@ Ces sites vous proposent des cours sous forme de vidéos ou de contenus riches, 
 
 ## Première année
 
-D'abord les bases du web, avec 
+D'abord les bases du web, avec
 [HTML & CSS](http://www.codecademy.com/fr/tracks/web) sur Codecademy. Si vous préférez faire du concret avant d'étudier en détail, commencez par le point 2 avant de faire le 1.
-	
-Ensuite, mise en pratique concrète et en anglais avec 
+
+Ensuite, mise en pratique concrète et en anglais avec
 [Make a website](http://www.codecademy.com/fr/skills/make-a-website), toujours sur Codecademy.
-	
-Puis un peu de javascript, avec 
+
+Puis un peu de javascript, avec
 [Animer votre nom](http://www.codecademy.com/fr/goals/animate-your-name-fr-FR).
 
-Enfin, ce que vous voulez ! Je vous conseille 
-[jQuery](http://www.codecademy.com/fr/tracks/jquery), 
-[Javascript](http://www.codecademy.com/fr/tracks/javascript), ou 
+Enfin, ce que vous voulez ! Je vous conseille
+[jQuery](http://www.codecademy.com/fr/tracks/jquery),
+[Javascript](http://www.codecademy.com/fr/tracks/javascript), ou
 [PHP](http://www.codecademy.com/fr/tracks/php). Ne faites pas Ruby, on en fera en deuxième année avec un cours encore meilleur :)
 Vous vous sentirez bien plus à l'aise avec l'intégration (HTML, CSS, JS), et vous aurez un peu de base en développement front-end (Javascript, jQuery). Merci de vous inscrire rapidement sur Codecademy et de me transmettre votre identifiant (l'url de votre profil) par mail.
 
@@ -30,15 +30,15 @@ Vous vous sentirez bien plus à l'aise avec l'intégration (HTML, CSS, JS), et 
 ## Deuxième année
 
 
-Vous allez découvrir le langage Ruby sur Code School en suivant le cours 
+Vous allez découvrir le langage Ruby sur Code School en suivant le cours
 [Try Ruby](https://www.codeschool.com/courses/try-ruby).
 
-	
-Puis vous allez découvrir Ruby on Rails (avec des Zombies), toujours sur Code School, en suivant 
+
+Puis vous allez découvrir Ruby on Rails (avec des Zombies), toujours sur Code School, en suivant
 [Rails For Zombies (Redux)](https://www.codeschool.com/courses/rails-for-zombies-redux).
 
-	
-Enfin, pour tout ceux qui ont envie de découvrir Git, un outil indispensable pour gérer son code, vous avez un autre cours très bref (15 mn), 
+
+Enfin, pour tout ceux qui ont envie de découvrir Git, un outil indispensable pour gérer son code, vous avez un autre cours très bref (15 mn),
 [Try Git](https://www.codeschool.com/courses/try-git).
 Après ça, je vous garantis que vous ne verrez plus le développement de la même manière. Merci de vous inscrire rapidement sur Code School et de me transmettre votre identifiant (l'url de votre profil) par mail.
 

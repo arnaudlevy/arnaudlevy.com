@@ -1,6 +1,6 @@
 ---
 title: Paradigmes
-image: '/posts/images/29_drawing-hands-by-escher-resize.jpg'
+image: '/assets/images/posts/29_drawing-hands-by-escher-resize.jpg'
 ---
 
 >Un [paradigme](http://fr.wikipedia.org/wiki/Paradigme) est une façon de penser quelque chose, une représentation du monde.
