@@ -1,12 +1,9 @@
 # arnaudlevy.com
 
-Well, everything is messed with sprockets...
+Now with Jekyll!
 
-https://github.com/middleman/middleman-sprockets/issues/127
-
-https://github.com/middleman/middleman/issues/1799
-
-
-JS is directly copied in site.js, because require don't work anymore. Idem with site.css.sass.
-
-RSS 1.4.0 does not work on old Safari
+Beware:
+- RSS 1.4.0 does not work on old Safari
+- Javascripts are included through liquid instructions, can't find //= require syntax that works
+- ruby version must match a netlify included Ruby, otherwise it's slow
+ 
