@@ -11,7 +11,11 @@
     <link href="/assets/images/logo.png" rel=icon type="image/png"/>
   </head>
   <body{% if page.layout == 'post' %} class="--blog"{% endif %}>
-    <div id="background"><div id="feed"></div></div>
+    <div id="background">
+      <div id="feed">
+        {% include background.html %}
+      </div>
+    </div>
     <main>
       <div class="content">
         {{ content }}
