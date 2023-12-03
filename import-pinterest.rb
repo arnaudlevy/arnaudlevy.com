@@ -19,7 +19,7 @@ images = images + images + images
 
 html = ''
 images.each do |image|
-  html << "<img src=\"#{image}\" alt=\"\">"
+  html << "<img src=\"#{image}\" alt=\"\" width=\"260\">"
 end
 
 File.write(destination, html)
